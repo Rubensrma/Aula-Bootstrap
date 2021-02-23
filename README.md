@@ -11,6 +11,8 @@ Aprendendo a utilizar o framework Bootstrap e aprofundando mais o meu conhecimen
 - Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando:
 
-HTML5
-CSS3
-Bootstrap
+  HTML5
+  CSS3
+  Bootstrap
+  
+  
